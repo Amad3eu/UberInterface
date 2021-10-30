@@ -1,6 +1,6 @@
 # 🗺 React Native Uber Implemation
 
-I'm developing and learning react native, and the world of mobile development, so deciding to go public, to support the community itself, I'm happy to be entering a new environment full of learning, I'll make an interface for Uber!
+As I'm in the footsteps of this world of react, and had previously recreated the nubank interface, and with the teachings of the dignified Diego Fernandes (Rocketseat), I recreated the Uber interface!
 
 
 
