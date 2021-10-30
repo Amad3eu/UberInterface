@@ -1,11 +1,11 @@
 # 🗺 React Native Uber Implemation
 
-I'm developing and learning react native, and the world of mobile development, so deciding to go public, to support the community itself, I'm happy to be entering a new environment full of learning, I'll make an interface for Busscar Photos!
+I'm developing and learning react native, and the world of mobile development, so deciding to go public, to support the community itself, I'm happy to be entering a new environment full of learning, I'll make an interface for Nubank!
 
 
 
 This project was inspired by: 
-(https://www.youtube.com/watch?v=DDm0M_rZLJo&t=881s).
+(https://www.youtube.com/watch?v=bg-U0xZwcRk).
 
 
 ## :mortar_board: Author
