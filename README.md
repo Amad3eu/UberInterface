@@ -1,6 +1,6 @@
 # 🗺 React Native Uber Implemation
 
-I'm developing and learning react native, and the world of mobile development, so deciding to go public, to support the community itself, I'm happy to be entering a new environment full of learning, I'll make an interface for Nubank!
+I'm developing and learning react native, and the world of mobile development, so deciding to go public, to support the community itself, I'm happy to be entering a new environment full of learning, I'll make an interface for Uber!
 
 
 
